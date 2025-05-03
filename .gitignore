@@ -172,3 +172,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+
+
+data/
+outputs/
+outputs_llama70b/
+outputs_llama3b/
+unsloth_compiled_cache/
+
